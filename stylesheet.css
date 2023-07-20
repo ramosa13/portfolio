@@ -15,6 +15,6 @@ a {
     transition: background-color 0.5s;
 }
 
-li a:hover {
+li h4 a:hover {
     background-color: gold;
 }
