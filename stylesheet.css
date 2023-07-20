@@ -10,11 +10,11 @@ body {
     font-family: arial, helvetica, sans-serif;
 }
 
-a {
+a li {
     background-color: powderblue;
     transition: background-color 0.5s;
 }
 
-a:hover {
+a li:hover {
     background-color: gold;
 }
