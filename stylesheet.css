@@ -10,11 +10,6 @@ body {
     font-family: arial, helvetica, sans-serif;
 }
 
-a li {
-    background-color: powderblue;
-    transition: background-color 0.5s;
-}
-
 a li:hover {
     background-color: powderblue;
 }
