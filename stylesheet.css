@@ -11,10 +11,10 @@ body {
 }
 
 a {
-    background-color: powderblue
+    background-color: powderblue;
     transition: background-color 0.5s;
 }
 
-li h4 a:hover {
+a:hover {
     background-color: gold;
 }
