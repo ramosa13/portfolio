@@ -9,3 +9,7 @@ h3 {
 body {
     font-family: arial, helvetica, sans-serif;
 }
+
+a:hover {
+    background-color: beige;
+}
