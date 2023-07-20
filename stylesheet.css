@@ -1,8 +1,9 @@
-img, h3 {
+img {
     text-align: center;
 }
 
 h3 {
+    color: gray;
     background-color: blue;
 }
 
